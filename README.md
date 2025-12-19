@@ -1,4 +1,4 @@
-#Project Inspiration
+Project Inspiration
 Colleges are the place where we come to home mentioning about losing our new earphone which might have kept in a desk but not sure if it's still there. This problem feels so relatable to most of the college students. A problem will still remain the same until someone builds a solution to it.
 
 #Features
