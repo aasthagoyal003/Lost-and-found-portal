@@ -15,9 +15,3 @@ Colleges are the place where we come to home mentioning about losing our new ear
 * MongoDB (Database)
 
 
-### Here is the [project link](https://lfs-project.herokuapp.com/).
-### Here is the [Video Explanation](https://youtu.be/7pioxo5yjGI).
-
-#### Other Links
-Link to the [Backend repository](https://github.com/eswarupkumar/lfs-backend-server).
-
